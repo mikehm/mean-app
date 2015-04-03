@@ -1,1 +1,1 @@
-# mean-app
+# A mean app.
